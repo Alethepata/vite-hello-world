@@ -4,10 +4,10 @@
 
 Creare e utilizzate un componente AppTitle, il quale contiene un titolo che recita “La mia prima app con Vite!”
 
-. creare un file.vue nella cartella components
+1. creare un file.vue nella cartella components
 
-. importare il file.vue in App.vue
+2. importare il file.vue in App.vue
 
-. inserire in 'export default' la funzione 'components:' e dentro richiamare il file importato
+3. inserire in 'export default' la funzione 'components:' e dentro richiamare il file importato
 
-.richiamare dentro template il file importato
+4. richiamare dentro template il file importato
